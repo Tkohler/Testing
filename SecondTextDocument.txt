@@ -6,4 +6,12 @@ Add a third line locally
 
 Add fourth line on github.com
 
+<<<<<<< HEAD
 Add fifth line locally
+=======
+
+
+
+
+Add a fifth line on github.com
+>>>>>>> f3ea6e542910853359323ea15ee1da737852a53e
