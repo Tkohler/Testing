@@ -6,6 +6,7 @@ Add a third line locally
 
   Add section under 3rd line.
   Adding text in the third section 
+  More text
 
 Add fourth line on github.com
 
